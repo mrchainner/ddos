@@ -16,7 +16,7 @@ year = now.year
 
 ##############
 sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
-bytes = random._urandom(5590)
+bytes = random._urandom(9892)
 #############
 
 os.system("clear")
