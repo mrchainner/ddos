@@ -53,7 +53,7 @@ ___<__(|) _   **-/  / /   /
     [  /   ,'     ~> DDoS Tool<~
     | /  ,'      ~~>Created By Mr.Chainner<~
     |/,-'       ~~> MY TEAM <~
-    '           ~~> Mr.vxdx1,Mr.fox666,Mr.Chainner,mr.ripki     <~
+    '           ~~> Mr.vxdx1,Mr.fox666,Mr.Chainner,mr.ripki<~
                                                        
 """ 
 ip = raw_input("IP Target : ")
