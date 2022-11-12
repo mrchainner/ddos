@@ -6,7 +6,6 @@ import random
 import threading 
 import logging 
 import urllib 
-import request
 #Code Time
 from datetime import datetime
 now = datetime.now()
